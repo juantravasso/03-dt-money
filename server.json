@@ -1,0 +1,316 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "venda",
+      "price": 1500,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": "2",
+      "description": "Aluguel",
+      "type": "outcome",
+      "category": "aluguel",
+      "price": 1500,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": "3",
+      "description": "Aluguel Loja",
+      "type": "outcome",
+      "category": "aluguel",
+      "price": 1500,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": "eae6",
+      "description": "Salario",
+      "price": 2000,
+      "category": "Salario",
+      "type": "income",
+      "createdAt": "2024-03-18T22:47:16.533Z"
+    },
+    {
+      "id": "2c5b",
+      "description": "Salario",
+      "price": 2000,
+      "category": "Salario",
+      "type": "income",
+      "createdAt": "2024-03-18T22:52:17.610Z"
+    },
+    {
+      "id": "8e86",
+      "description": "Salario",
+      "price": 2222,
+      "category": "Salario",
+      "type": "income",
+      "createdAt": "2024-03-18T23:12:50.944Z"
+    },
+    {
+      "id": "b70a",
+      "description": "Salario",
+      "price": 1123,
+      "category": "Salario",
+      "type": "income",
+      "createdAt": "2024-03-19T00:45:22.987Z"
+    },
+    {
+      "id": "e5bc",
+      "description": "Cartao de credito",
+      "price": 525,
+      "category": "Cartao Nubank",
+      "type": "outcome",
+      "createdAt": "2024-03-19T00:45:59.563Z"
+    },
+    {
+      "id": "c91d",
+      "description": "Faculdade",
+      "price": 428,
+      "category": "Estudo",
+      "type": "outcome",
+      "createdAt": "2024-03-19T00:46:48.365Z"
+    },
+    {
+      "id": "5106",
+      "description": "FSE",
+      "price": 15,
+      "category": "lazer",
+      "type": "outcome",
+      "createdAt": "2024-03-19T00:47:09.061Z"
+    },
+    {
+      "id": "12f8",
+      "description": "Fluminense",
+      "price": 15,
+      "category": "lazer",
+      "type": "outcome",
+      "createdAt": "2024-03-19T00:47:32.870Z"
+    },
+    {
+      "id": "0988",
+      "description": "Academia",
+      "price": 85,
+      "category": "saude",
+      "type": "outcome",
+      "createdAt": "2024-03-19T00:48:07.184Z"
+    },
+    {
+      "id": "fc5d",
+      "description": "Spotify",
+      "price": 12,
+      "category": "lazer",
+      "type": "outcome",
+      "createdAt": "2024-03-19T00:48:22.980Z"
+    },
+    {
+      "id": "4074",
+      "description": "Salario",
+      "price": 3000,
+      "category": "Salario",
+      "type": "income",
+      "createdAt": "2024-03-19T01:27:10.832Z"
+    },
+    {
+      "id": "e93a",
+      "description": "Mercado",
+      "price": 12000,
+      "category": "Mercado",
+      "type": "outcome",
+      "createdAt": "2024-03-19T01:27:31.295Z"
+    },
+    {
+      "id": "2e68",
+      "description": "Vendas",
+      "price": 16000,
+      "category": "Vendas",
+      "type": "income",
+      "createdAt": "2024-03-19T01:27:56.799Z"
+    },
+    {
+      "id": "2a0e",
+      "description": "Salario",
+      "price": 1823,
+      "category": "Salario",
+      "type": "income",
+      "createdAt": "2024-03-19T01:36:29.242Z"
+    },
+    {
+      "id": "92ca",
+      "description": "guardar",
+      "price": 177,
+      "category": "guardar",
+      "type": "outcome",
+      "createdAt": "2024-03-19T01:37:26.202Z"
+    },
+    {
+      "id": "709f",
+      "description": "faculdade",
+      "price": 428,
+      "category": "estudos",
+      "type": "income",
+      "createdAt": "2024-03-19T01:37:44.595Z"
+    },
+    {
+      "id": "689c",
+      "description": "ingles",
+      "price": 150,
+      "category": "estudos",
+      "type": "income",
+      "createdAt": "2024-03-19T01:37:57.219Z"
+    },
+    {
+      "id": "7997",
+      "description": "Cabelo",
+      "price": 80,
+      "category": "bem estar",
+      "type": "income",
+      "createdAt": "2024-03-19T01:38:21.819Z"
+    },
+    {
+      "id": "2a62",
+      "description": "Salario",
+      "price": 2406,
+      "category": "Salario",
+      "type": "income",
+      "createdAt": "2024-03-19T01:39:21.122Z"
+    },
+    {
+      "id": "3ede",
+      "description": "Guardar",
+      "price": 282,
+      "category": "guardar",
+      "type": "outcome",
+      "createdAt": "2024-03-19T01:39:39.098Z"
+    },
+    {
+      "id": "24c4",
+      "description": "faculdade",
+      "price": 428,
+      "category": "estudos",
+      "type": "outcome",
+      "createdAt": "2024-03-19T01:39:52.390Z"
+    },
+    {
+      "id": "0e14",
+      "description": "ingles",
+      "price": 150,
+      "category": "estudos",
+      "type": "outcome",
+      "createdAt": "2024-03-19T01:40:05.272Z"
+    },
+    {
+      "id": "9f51",
+      "description": "emergencia",
+      "price": 94,
+      "category": "guardar",
+      "type": "outcome",
+      "createdAt": "2024-03-19T01:40:24.099Z"
+    },
+    {
+      "id": "e7af",
+      "description": "Cabelo",
+      "price": 80,
+      "category": "bem estar",
+      "type": "outcome",
+      "createdAt": "2024-03-19T01:40:39.664Z"
+    },
+    {
+      "id": "6c29",
+      "description": "recarga",
+      "price": 53,
+      "category": "contas",
+      "type": "outcome",
+      "createdAt": "2024-03-19T01:40:57.981Z"
+    },
+    {
+      "id": "d3ad",
+      "description": "Academia",
+      "price": 85,
+      "category": "bem estar",
+      "type": "outcome",
+      "createdAt": "2024-03-19T01:41:13.361Z"
+    },
+    {
+      "id": "70d4",
+      "description": "Salario",
+      "price": 1800,
+      "category": "Salario",
+      "type": "income",
+      "createdAt": "2024-03-19T22:43:37.662Z"
+    },
+    {
+      "id": "dd62",
+      "description": "Academia",
+      "price": 100,
+      "category": "saude",
+      "type": "outcome",
+      "createdAt": "2024-03-19T22:43:50.723Z"
+    },
+    {
+      "id": "9ae5",
+      "description": "Parcela celular",
+      "price": 300,
+      "category": "cartão",
+      "type": "outcome",
+      "createdAt": "2024-03-19T22:50:35.060Z"
+    },
+    {
+      "id": "09ea",
+      "description": "lanche",
+      "price": 30,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2024-03-19T22:50:53.674Z"
+    },
+    {
+      "id": "74d2",
+      "description": "aluguel",
+      "price": 800,
+      "category": "moradia",
+      "type": "outcome",
+      "createdAt": "2024-03-19T22:51:07.362Z"
+    },
+    {
+      "id": "171d",
+      "description": "Salario",
+      "price": 1800,
+      "category": "Salario",
+      "type": "income",
+      "createdAt": "2024-03-19T22:52:30.466Z"
+    },
+    {
+      "id": "321b",
+      "description": "Parcela celular",
+      "price": 300,
+      "category": "Cartão",
+      "type": "outcome",
+      "createdAt": "2024-03-19T22:52:45.618Z"
+    },
+    {
+      "id": "1121",
+      "description": "Hamburguer",
+      "price": 30,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-03-19T22:53:01.266Z"
+    },
+    {
+      "id": "cd72",
+      "description": "Aluguel",
+      "price": 800,
+      "category": "moradia",
+      "type": "outcome",
+      "createdAt": "2024-03-19T22:53:15.838Z"
+    },
+    {
+      "id": "f984",
+      "description": "Academia ",
+      "price": 100,
+      "category": "saude",
+      "type": "outcome",
+      "createdAt": "2024-03-19T22:53:30.243Z"
+    }
+  ]
+}
